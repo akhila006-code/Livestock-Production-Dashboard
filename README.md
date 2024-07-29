@@ -18,8 +18,12 @@
 
 •	Enabled stakeholders to derive actionable insights and informed decisions through dynamic visualizations, including trend analysis, geographical comparisons, and production value distributions.
 
+Dashboard: Livestock Production Dashboard.twbx
+
 ### Data Source
 The data used for this analysis is obtained from FAOSTAT, focusing on edible offal from cattle, goats, sheep, and pigs, spanning the years 2011-2021 and encompassing various countries.
+
+Data File: Cleaned FAOSTAT Livestock Data.csv
 
 ### Data Cleaning
 •	Data Loading and Inspection
