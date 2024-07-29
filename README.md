@@ -18,12 +18,13 @@
 
 •	Enabled stakeholders to derive actionable insights and informed decisions through dynamic visualizations, including trend analysis, geographical comparisons, and production value distributions.
 
-Dashboard: Livestock Production Dashboard.twbx
+Dashboard: [Livestock Production Dashboard.twbx](https://github.com/akhila006-code/Tableau-Visualizations/blob/main/Livestock%20Production%20Dashboard.twbx)
 
 ### Data Source
 The data used for this analysis is obtained from FAOSTAT, focusing on edible offal from cattle, goats, sheep, and pigs, spanning the years 2011-2021 and encompassing various countries.
 
-Data File: Cleaned FAOSTAT Livestock Data.csv
+Dataset: [Cleaned FAOSTAT Livestock Data.csv](https://github.com/akhila006-code/Tableau-Visualizations/blob/main/Cleaned%20FAOSTAT%20Livestock%20Data.csv)
+
 
 ### Data Cleaning
 •	Data Loading and Inspection
