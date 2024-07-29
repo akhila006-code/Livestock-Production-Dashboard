@@ -1,4 +1,4 @@
-# Interactive Tableau Dashboard For Crop Production Analysis
+# Interactive Tableau Dashboard For Global Livestock Production Analysis
 
 ## Table Of Contents
 •	[Project Overview](#project-overview)
@@ -12,7 +12,7 @@
 •	[Tools](#tools)
 
 ### Project Overview
-•	Developed a comprehensive interactive dashboard using Tableau, leveraging data from FAOSTAT on crops and livestock products.
+•	Developed a comprehensive interactive dashboard using Tableau, leveraging data from FAOSTAT on livestock products.
 
 •	The analysis targeted edible offal from cattle, goats, sheep, and pigs, covering the years 2011-2021 across various countries.
 
