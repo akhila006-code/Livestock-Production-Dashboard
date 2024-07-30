@@ -9,7 +9,10 @@
 
 •	[Key Visualizations](#key-visualizations)
 
+•	[Impact](#impact)
+
 •	[Tools](#tools)
+
 
 ### Project Overview
 •	Developed a comprehensive interactive dashboard using Tableau, leveraging data from FAOSTAT on livestock products.
@@ -44,6 +47,10 @@ Dataset: [Cleaned FAOSTAT Livestock Data.csv](https://github.com/akhila006-code/
 •	Map Visualization: Showing the proportion of producing animals, specifically edible offal of cattle, categorized by fresh, chilled, or frozen status.
 
 •	Correlation Graph: Analyzing the relationships between different types of meat production.
+
+### Impact:
+The interactive dashboard offers stakeholders crucial insights into global production trends and regional differences in edible offal products, supporting more informed decision-making. By presenting data intuitively, it enhances understanding of market dynamics and production patterns, aiding strategic planning, resource allocation, and identifying growth opportunities in the agricultural sector. This improved data visibility helps optimize supply chain processes, better respond to market demands, and ultimately leads to more efficient and profitable operations.
+
 
 ### Tools
 Excel, Tableau
